@@ -1,7 +1,7 @@
 ---
 title: "Test"
 date: 2018-01-30T09:56:35+01:00
-draft: true
+draft: false
 ---
 hej verden
 

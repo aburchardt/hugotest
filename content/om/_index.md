@@ -1,7 +1,7 @@
 ---
 title: "Om"
 date: 2018-01-30T10:08:00+01:00
-draft: true
+draft: false
 ---
 
 # Hvordan jeg var ved at ødelægge min computer

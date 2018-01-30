@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://aburchardt.dk/kea/3_semester/hugo_test"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Test"
 theme = "cocoa"
 
 [[menu.main]]
